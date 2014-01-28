@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q1</string>
+		<key>question</key>
+		<string>What is the primary goal of RA treatment?</string>
+		<key>answers</key>
+		<array>
+			<string>minimal disease activity</string>
+			<string>remission</string>
+			<string>preventing disability</string>
+			<string>improving quality of life</string>
+		</array>
+		<key>correct</key>
+		<integer>1</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_1.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q2</string>
+		<key>question</key>
+		<string>Choose the true statement regarding the following prognostic features rheumatoid factor (RF) positivity, anticyclic citrullinated peptide antibodies (anti- CCP) positivity, functional limitation, high number of swollen and tender joints, early erosions, extraarticular features, high erythrocyte sedimentation rate (ESR) or C-reactive protein (CRP)</string>
+		<key>answers</key>
+		<array>
+			<string>These features should be assessed at baseline</string>
+			<string>These features should be considered when making treatment decisions</string>
+			<string>These features are associated with poor prognosis</string>
+			<string>All of the above statements are true</string>
+		</array>
+		<key>correct</key>
+		<integer>3</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_2.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q3</string>
+		<key>question</key>
+		<string>How frequently should RA care providers monitor disease activity in patients with active RA?</string>
+		<key>answers</key>
+		<array>
+			<string>every 6 months</string>
+			<string>once a year</string>
+			<string>every 1 to 3 months</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_3.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q4</string>
+		<key>question</key>
+		<string>How often should traditional and biologic DMARD therapy be adjusted?</string>
+		<key>answers</key>
+		<array>
+			<string>Every 6 months</string>
+			<string>If the goal has not been achieved, at the next office visit</string>
+			<string>Every 3–6 months, as long as the goal has not been achieved</string>
+			<string>Once a year, if the goal has not been achieved</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_4.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q5</string>
+		<key>question</key>
+		<string>How frequently are radiographs of the hands and feet recommended in patients with recent disease onset?</string>
+		<key>answers</key>
+		<array>
+			<string>As frequently as every 6–12 months </string>
+			<string>As frequently as 3-6 months</string>
+			<string>Once a year</string>
+			<string>Only on visible deformity</string>
+		</array>
+		<key>correct</key>
+		<integer>0</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_5.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q6</string>
+		<key>question</key>
+		<string>True or false? A change in therapy should be considered in patients with radiographic progression despite an adequate clinical response.</string>
+		<key>answers</key>
+		<array>
+			<string>True</string>
+			<string>False</string>
+		</array>
+		<key>correct</key>
+		<integer>0</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_6.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q7</string>
+		<key>question</key>
+		<string>True or false? Glucocorticoids (GC; oral, intramuscular, orintraarticular) can be added to DMARD therapy as part of the initial treatment strategy.</string>
+		<key>answers</key>
+		<array>
+			<string>True</string>
+			<string>False</string>
+		</array>
+		<key>correct</key>
+		<integer>0</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_7.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q8</string>
+		<key>question</key>
+		<string>Choose the correct statement.</string>
+		<key>answers</key>
+		<array>
+			<string>In patients with persistent synovitis, corticosteroids should be introduced as soon as possible.</string>
+			<string>In patients with persistent synovitis, methotrexate should be introduced as soon as possible.</string>
+			<string>In patients with persistent synovitis, DMARD should be introduced as soon as possible.</string>
+			<string>In patients with persistent synovitis, NSAIDs should be introduced as soon as possible.</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_8.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q9</string>
+		<key>question</key>
+		<string>Choose the correct statement.</string>
+		<key>answers</key>
+		<array>
+			<string>Anti-TNF therapy is recommended for the treatment of patients with RA after an inadequate response to DMARD.</string>
+			<string>In exceptional circumstances involving patients with DMARD contraindications or high disease activity and poor prognostic factors (particularly early disease), anti-TNF therapy may be an option after failure of DMARD monotherapy or in DMARD-naïve patients.</string>
+			<string>Both A and B are Correct</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_9.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_cra.png</string>
+		<key>icon_title</key>
+		<string>Q10</string>
+		<key>question</key>
+		<string>Which laboratory tests are recommended prior to initiating biologic therapies?</string>
+		<key>answers</key>
+		<array>
+			<string>Routine laboratory tests complete blood count, liver and renal biochemistry) and screening for hepatitis B and C (and HIV in high-risk patients)</string>
+			<string>Screening for latent tuberculosis</string>
+			<string>Baseline antinuclear antibody (ANA) testing</string>
+			<string>All of the above</string>
+		</array>
+		<key>correct</key>
+		<integer>3</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answer_cra_10.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions_cra.png</string>
+	</dict>
+</array>
+</plist>

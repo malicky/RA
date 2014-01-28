@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>MyHealthMyFuture.ca</string>
+		<key>details</key>
+		<string>Q5</string>
+		<key>background</key>
+		<string>Btn_abbot_off.png</string>
+		<key>selected</key>
+		<string>Btn_abbot_on.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Arthritis Society of Canada</string>
+		<key>details</key>
+		<string>Q6</string>
+		<key>background</key>
+		<string>Btn_abbot_off.png</string>
+		<key>selected</key>
+		<string>Btn_abbot_on.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>The Power of Movement</string>
+		<key>details</key>
+		<string>Q7</string>
+		<key>background</key>
+		<string>Btn_abbot_off.png</string>
+		<key>selected</key>
+		<string>Btn_abbot_on.png</string>
+	</dict>
+</array>
+</plist>

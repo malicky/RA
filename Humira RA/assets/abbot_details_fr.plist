@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q1</string>
+		<key>question</key>
+		<string>ABBOTT est résolument au service du développement des connaissances et de l&apos;innovation en rhumatologie au Canada et compte y parvenir grâce à de nombreuses initiatives uniques. Laquelle des paires suivantes n’en fait pas partie?</string>
+		<key>answers</key>
+		<array>
+			<string>La couleur de la communication / Le Pouvoir en mouvement</string>
+			<string>Efforts articulés, avantages articulaires / arthRIGHT.ca</string>
+			<string>Traiter pour atteindre les valeurs cibles (« Treat to Target ») / Prise en charge collaborative
+des spondylarthropathies : Une approche multidisciplinaire</string>
+			<string>Société pour l&apos;ultrasonographie en rhumatologie au Canada (SURC) / MaSanteMonAvenir.ca</string>
+		</array>
+		<key>correct</key>
+		<integer>1</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_1.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q2</string>
+		<key>question</key>
+		<string>Laquelle ou lesquelles des initiatives suivantes d’ABBOTT – par l’intermédiaire 
+de programmes de FMC agréés – visent à aplanir les problèmes de communication entre les rhumatologues et leurs patients, et aussi entre les professionnels paramédicaux et les patients?</string>
+		<key>answers</key>
+		<array>
+			<string>La couleur de la communication</string>
+			<string>Le Pouvoir en mouvement</string>
+			<string>Traiter pour atteindre les valeurs cibles (« Treat to Target »)</string>
+			<string>Toutes ces réponses</string>
+		</array>
+		<key>correct</key>
+		<integer>0</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_2.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q3</string>
+		<key>question</key>
+		<string>Parmi les programmes de FMC agréés suivants, lequel ou lesquels visent à simplifier le processus d’orientation des patients souffrant de spondylarthropathies ainsi qu’à coordonner les soins de façon plus globale et collaborative entre les diverses spécialités?</string>
+		<key>answers</key>
+		<array>
+			<string>La couleur de la communication</string>
+			<string>Ateliers sur l&apos;IRM dans les spondylarthropathies</string>
+			<string>Prise en charge collaborative des spondylarthropathies : 
+Une approche multidisciplinaire</string>
+			<string>Toutes ces réponses</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_3.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q4</string>
+		<key>question</key>
+		<string>L’un des principes fondamentaux de Traiter pour atteindre les valeurs cibles (« Treat to Target ») est la maximisation de la qualité de vie liée à la santé à long terme. Parmi les objectifs suivants, lequel n’est pas poursuivi par le groupe de travail international concerné?</string>
+		<key>answers</key>
+		<array>
+			<string>Maîtriser les symptômes</string>
+			<string>Optimiser l’information des patients</string>
+			<string>Prévenir les lésions structurelles</string>
+			<string>Rétablir les capacités physiques fonctionnelles et la participation à la vie sociale</string>
+		</array>
+		<key>correct</key>
+		<integer>1</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_4.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q5</string>
+		<key>question</key>
+		<string>MaSanteMonAvenir.ca est un site Web conçu à l’intention des patients atteints de polyarthrite rhumatoïde, de spondylarthrite ankylosante et de rhumatisme psoriasique, pour les aider à trouver
+des réponses à des questions importantes qu’ils hésitent parfois à poser, tout en leur offrant en ligne
+des conseils d’experts canadiens en rhumatologie et en psychologie. Qu’est-ce qui n’est pas offert
+sur le site?</string>
+		<key>answers</key>
+		<array>
+			<string>Témoignages d’autres patients</string>
+			<string>Services de rencontres personnelles</string>
+			<string>Abonnement à un bulletin électronique</string>
+			<string>Conseils sur l’élaboration d’un plan de traitement</string>
+		</array>
+		<key>correct</key>
+		<integer>1</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_5.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q6</string>
+		<key>question</key>
+		<string>En collaboration avec la Société de l’arthrite, chargée du volet d’information, Abbott souhaite mieux faire connaître les maladies inflammatoires par le truchement d’une campagne par affiches et de publicités accrocheuses s’adressant directement aux consommateurs connue sous le nom de...</string>
+		<key>answers</key>
+		<array>
+			<string>Combattre le feu par le feu</string>
+			<string>Luttons ensemble contre les flammes</string>
+			<string>Ensemble, nous pouvons combattre la flamme</string>
+			<string>Tout feu tout flamme</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_6.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q7</string>
+		<key>question</key>
+		<string>Abbott est le commanditaire principal du Pouvoir en mouvement, programme qui vise à accroître la sensibilisation aux maladies inflammatoires. L’activité au cœur de ce défi sans précédent à l’échelle mondiale est...</string>
+		<key>answers</key>
+		<array>
+			<string>La marche</string>
+			<string>La danse et le conditionnement physique</string>
+			<string>Le yoga</string>
+			<string>Les quilles et la télé</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_7.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+</array>
+</plist>

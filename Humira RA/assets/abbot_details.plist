@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q1</string>
+		<key>question</key>
+		<string>The ABBOTT commitment to build Canadian knowledge and foster innovation in rheumatology encompasses numerous unique initiatives. Which of the following pairs is not a part of this?</string>
+		<key>answers</key>
+		<array>
+			<string>The Colour of Communication / Power of Movement</string>
+			<string>Joint Effort, Joint Advantages / arthRIGHT.ca</string>
+			<string>Treat to Target / The Collaboration of SpA: A Multidiciplinary Approach</string>
+			<string>Canadian Rheumatology Society (CRUS) / MyHealthMyFuture.ca</string>
+		</array>
+		<key>correct</key>
+		<integer>1</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_1.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q2</string>
+		<key>question</key>
+		<string>Through the use of CHE accredited programs, which ABBOTT initiative is designed to address communication gaps between rheumatologists and patients, as well as between allied HCPs and patients?</string>
+		<key>answers</key>
+		<array>
+			<string>The Colour of Communication</string>
+			<string>Power of Movement</string>
+			<string>Treat to Target</string>
+			<string>All of the above</string>
+		</array>
+		<key>correct</key>
+		<integer>0</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_2.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q3</string>
+		<key>question</key>
+		<string>Which accredited CHE program strives to develop ways to streamline the referral process for SpA patients and coordinate care in a more comprehensive and collaborative fashion within other speciailites?</string>
+		<key>answers</key>
+		<array>
+			<string>The Colour of Communication</string>
+			<string>MRI Workshop in SpA</string>
+			<string>The Collaboration of SpA: A Multidiciplinary Approach</string>
+			<string>All of the above</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_3.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q4</string>
+		<key>question</key>
+		<string>An overarching principle of the Treat to Target initiative is to maximize long-term, health-related quality of life. Which is not an aspect of this international task force pursuit?</string>
+		<key>answers</key>
+		<array>
+			<string>Control of symptoms</string>
+			<string>Optimization of patient education</string>
+			<string>Prevention of structural damage</string>
+			<string>Normalization of function and social participation</string>
+		</array>
+		<key>correct</key>
+		<integer>1</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_4.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q5</string>
+		<key>question</key>
+		<string>MyHealthMyFuture.ca is a website for RA, AS and PsA patients. It helps to answer important questions that patients may be reluctant to ask, while providing online advice from Canadian experts in rheumatology and psychology. Which of the following is not offered on the website?</string>
+		<key>answers</key>
+		<array>
+			<string>Personal experiences of other patients</string>
+			<string>Personal dating services</string>
+			<string>e-newsletter subscriptions</string>
+			<string>Advice on building a treatment plan</string>
+		</array>
+		<key>correct</key>
+		<integer>1</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_5.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q6</string>
+		<key>question</key>
+		<string>With the Arthritis Society of Canada serving as an educational partner, Abbott is raising awareness of inflammatory disease through a high-impact, direct-to-consumer poster and ad campaign under the title of...</string>
+		<key>answers</key>
+		<array>
+			<string>Fighting Fire with Fire</string>
+			<string>Let&apos;s Fight the Fire Together</string>
+			<string>Together We Can Fight the Fire</string>
+			<string>We Didn&apos;t Start the Fire</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_6.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Q_holder_abbot.png</string>
+		<key>icon_title</key>
+		<string>Q7</string>
+		<key>question</key>
+		<string>Abbott is the presenting sponsor of The Power of Movement, an effort to raise awareness of inflammatory disease. At the heart of this effort lies the world&apos;s largest challenge involving...</string>
+		<key>answers</key>
+		<array>
+			<string>walking</string>
+			<string>dance and fitness</string>
+			<string>yoga</string>
+			<string>bowling and TV</string>
+		</array>
+		<key>correct</key>
+		<integer>2</integer>
+		<key>correct_image</key>
+		<string>bg_commitment_tools_answers_7.png</string>
+		<key>background</key>
+		<string>bg_commitment_tools_questions.png</string>
+	</dict>
+</array>
+</plist>

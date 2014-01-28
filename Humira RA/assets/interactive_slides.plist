@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_power.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_power.png</string>
+		<key>q_icon_text</key>
+		<string>Q1</string>
+		<key>question</key>
+		<string>Consider the following 5 TNF-α inhibitors and identify which ones are indicated for the treatment of 5 or more immunological conditions. [1, 2, 3, 4, 5]</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>20</integer>
+			<key>remicade</key>
+			<integer>20</integer>
+			<key>simponi</key>
+			<integer>0</integer>
+			<key>cimza</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_power.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_power.png</string>
+		<key>q_icon_text</key>
+		<string>Q2</string>
+		<key>question</key>
+		<string>Consider the indication statements of the following 5 TNF-α inhibitors, in adult patients with moderately to severely active rheumatoid arthritis (RA), and identify which ones are indicated for: [1, 2, 3, 4, 5]</string>
+		<key>subtitle</key>
+		<string>REDUCING SIGNS AND SYMPTOMS</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>20</integer>
+			<key>remicade</key>
+			<integer>20</integer>
+			<key>simponi</key>
+			<integer>20</integer>
+			<key>cimza</key>
+			<integer>20</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_power.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_power.png</string>
+		<key>q_icon_text</key>
+		<string>Q3</string>
+		<key>question</key>
+		<string>Consider the indication statements of the following 5 TNF-α inhibitors, in adult patients with moderately to severely active rheumatoid arthritis (RA), and identify which ones are indicated for: [1, 2, 3, 4, 5]</string>
+		<key>subtitle</key>
+		<string>INDUCING CLINICAL REMISSION</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>0</integer>
+			<key>remicade</key>
+			<integer>0</integer>
+			<key>simponi</key>
+			<integer>0</integer>
+			<key>cimza</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_power.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_power.png</string>
+		<key>q_icon_text</key>
+		<string>Q4</string>
+		<key>question</key>
+		<string>Consider the indication statements of the following 5 TNF-α inhibitors, in adult patients with moderately to severely active rheumatoid arthritis (RA), and identify which ones are indicated for: [1, 2, 3, 4, 5]</string>
+		<key>subtitle</key>
+		<string>INDUCING MAJOR CLINICAL RESPONSE</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>20</integer>
+			<key>remicade</key>
+			<integer>0</integer>
+			<key>simponi</key>
+			<integer>0</integer>
+			<key>cimza</key>
+			<integer>20</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_power.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_power.png</string>
+		<key>q_icon_text</key>
+		<string>Q5</string>
+		<key>question</key>
+		<string>Consider the following 5 TNF-α inhibitors and identify: Which TNF-α inhibitors in combination with methotrexate have demonstrated more than 45% of major clinical response rates over 2 years in patients with early moderate to severe RA: [1, 2, 3, 4, 5]</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>0</integer>
+			<key>remicade</key>
+			<integer>0</integer>
+			<key>simponi</key>
+			<integer>0</integer>
+			<key>cimza</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_dream.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_dream.png</string>
+		<key>q_icon_text</key>
+		<string>Q6</string>
+		<key>question</key>
+		<string>Consider the indication statements of the following 5 TNF-α inhibitors, in adult patients with moderately to severely active rheumatoid arthritis (RA), and identify which ones are indicated for: [1, 2, 3, 4, 5]</string>
+		<key>subtitle</key>
+		<string>IMPROVING PHYSICAL FUNCTION</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>20</integer>
+			<key>remicade</key>
+			<integer>20</integer>
+			<key>simponi</key>
+			<integer>0</integer>
+			<key>cimza</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_dream.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_dream.png</string>
+		<key>q_icon_text</key>
+		<string>Q7</string>
+		<key>question</key>
+		<string>Consider the following 5 TNF-α inhibitors and identify:
+Which ones can be administered as a subcutaneous injection. [1, 2, 3, 4, 5]</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>20</integer>
+			<key>remicade</key>
+			<integer>0</integer>
+			<key>simponi</key>
+			<integer>20</integer>
+			<key>cimza</key>
+			<integer>20</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_dream.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_dream.png</string>
+		<key>q_icon_text</key>
+		<string>Q8</string>
+		<key>question</key>
+		<string>Consider the following 5 TNF-α inhibitors and identify:
+Which ones have demonstrated significant reduction in the number of missed work days over 2 years: [6]</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>0</integer>
+			<key>remicade</key>
+			<integer>0</integer>
+			<key>simponi</key>
+			<integer>0</integer>
+			<key>cimza</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_commitment.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_commitment.png</string>
+		<key>q_icon_text</key>
+		<string>Q9</string>
+		<key>question</key>
+		<string>Consider the following 5 TNF-α inhibitors and identify:
+Which one has been found to the most cost-effective for the treatment of rheumatoid arthritis from a health care payer perspective, as rated by the Canadian Agency for Drugs and Technologies in Health (CADTH). [7]</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>0</integer>
+			<key>remicade</key>
+			<integer>0</integer>
+			<key>simponi</key>
+			<integer>0</integer>
+			<key>cimza</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive_commitment.png</string>
+		<key>q_icon_background</key>
+		<string>q_indicator_commitment.png</string>
+		<key>q_icon_text</key>
+		<string>Q10</string>
+		<key>question</key>
+		<string>The following 5 TNF-α inhibitors have been studied in randomized, double-blind pivotal trials. Some of these trials have been continued as open-label extension studies. Identify which TNF-α inhibitors have 10 years of data collected to date in the open-label extension of a pivotal trial.</string>
+		<key>values</key>
+		<dict>
+			<key>humira</key>
+			<integer>20</integer>
+			<key>enbrel</key>
+			<integer>0</integer>
+			<key>remicade</key>
+			<integer>0</integer>
+			<key>simponi</key>
+			<integer>0</integer>
+			<key>cimza</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>top_interactive.png</string>
+		<key>text</key>
+		<string>TNF-α inhibitor indications in rheumatoid arthritis
+
+HUMIRA® is indicated for reducing the signs and symptoms, inducing major clinical response and clinical remission, inhibiting the progression of structural damage and improving physical function in adult patients with moderately to severely active rheumatoid arthritis. HUMIRA® can be used alone or in combination with methotrexate (MTX) or other disease-modifying anti-rheumatic drugs (DMARDs).
+
+REMICADE® (Infliximab) is indicated for use in combination with methotrexate for the reduction in signs and symptoms, inhibition of the progression of structural damage and improvement in physical function in adult patients with moderately to severely active rheumatoid arthritis.
+
+CIMZIA (certolizumab pegol) in combination with methotrexate (MTX) is indicated for reducing signs and symptoms, inducing major clinical response, and reducing the progression of joint damage as assessed by X-ray, in adult patients with moderately to severely active rheumatoid arthritis (RA).
+
+SIMPONI®, in combination with methotrexate (MTX), is indicated for reducing signs and symptoms in adult patients with moderately to severely active rheumatoid arthritis.
+
+ENBREL is indicated for treatment of moderately to severely active rheumatoid arthritis (RA) in adults. Treatment is effective in reducing the signs and symptoms of RA, inducing major clinical response, inhibiting the progression of structural damage, and improving physical function. ENBREL can be initiated in combination with methotrexate (MTX) in adult patients or used alone.
+
+References:
+
+1. Humira Product Monograph. July 21, 2011.
+2. Enbrel Product Monograph. August 8, 2011.
+3. Remicade Product Monograph. December 16, 2011.
+4. Cimzia Product Monograph. May 11, 2010.
+5. Simponi Product Monograph. August 5, 2011.
+6. van Vollenhoven RF, Cifaldi MA, Ray S, et al. Improvement in work place and household productivity for patients with early rheumatoid arthritis controlled trial companion study. Arthritis Care Res. 2010 Feb;62(2):226-34.
+7. Canadian Agency for Drugs and Technologies in Health. CADTH therapeutic review and clinical and economic overview: biological response modifier agents for adults with rheumatoid arthritis. July 2010.</string>
+		<key>textonly</key>
+		<true/>
+	</dict>
+</array>
+</plist>
